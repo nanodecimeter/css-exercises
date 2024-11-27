@@ -1,0 +1,19 @@
+#number-two {
+    color: blue;
+    font-size: 32px;
+}
+
+#number-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.test-class {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.and-cooler {
+    font-size: 24px;
+}
